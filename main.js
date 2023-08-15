@@ -1,5 +1,5 @@
 function enterPortal() {
-  const audio = new Audio('mos.mp3');
+  const audio = new Audio('bandz.mp3');
   const typing = document.getElementById('typing');
   const cursor = document.getElementById('cursor');
   const texts = ["fnqs", "lol", "/sword"];
